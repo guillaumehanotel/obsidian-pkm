@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Languages/CSS/Documentation/Gradient.md",
+            "file": "Obsidian Markdown.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "renom",
+                "query": "tag:#Hello ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Languages/CSS/Documentation/Gradient.md",
+                "file": "Obsidian Markdown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "514442cde029109d",
   "lastOpenFiles": [
+    "Obsidian Markdown.md",
+    "Home.md",
+    "Tools/Jetbrains.md",
+    "README.md",
     "Languages/CSS/Documentation/Gradient.md",
     "Languages/CSS/Documentation/Frameworks CSS.md",
     "Languages/CSS/Documentation/Découpage (clip-path).md",
     "Languages/CSS/Documentation/Composition et fusion.md",
     "Languages/CSS/Frameworks/Tailwind.md",
-    "Languages/CSS/Documentation/Animations.md",
-    "Tools/Jetbrains.md",
-    "Obsidian Markdown.md",
-    "Languages/PHP/Déploiement.md",
-    "Languages/PHP/Composer.md"
+    "Languages/CSS/Documentation/Animations.md"
   ]
 }
