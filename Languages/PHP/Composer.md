@@ -14,3 +14,6 @@ Autoloader les dépendances sur un projet from scratch :
 ```php
 require __DIR__ . '/vendor/autoload.php'
 ```
+
+Supprimer un package : 
+`composer remove <nom-du-package>`

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Languages/PHP/Laravel/Routing.md",
+            "file": "Languages/PHP/Composer.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Hello ",
+                "query": "composer",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Languages/PHP/Laravel/Routing.md",
+                "file": "Languages/PHP/Composer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "514442cde029109d",
   "lastOpenFiles": [
+    "Languages/PHP/Composer.md",
     "Languages/PHP/Laravel/Routing.md",
     "Git/toto.md",
     "Obsidian Markdown.md",
@@ -97,7 +98,6 @@
     "README.md",
     "Languages/CSS/Documentation/Gradient.md",
     "Languages/CSS/Documentation/Frameworks CSS.md",
-    "Languages/CSS/Documentation/Découpage (clip-path).md",
-    "Languages/CSS/Documentation/Composition et fusion.md"
+    "Languages/CSS/Documentation/Découpage (clip-path).md"
   ]
 }
