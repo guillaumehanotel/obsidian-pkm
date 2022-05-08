@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "e1390ee13fbf026d",
+    "type": "split",
+    "children": [
+      {
+        "id": "514442cde029109d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Languages/CSS/Documentation/Gradient.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c45a4cd5cb311c0f",
+    "type": "split",
+    "children": [
+      {
+        "id": "d249fcb80e7a7e09",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df1f027eb1615f71",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "466fad13aa4eeb57",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "renom",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d9d670cda8fbb171",
+    "type": "split",
+    "children": [
+      {
+        "id": "2536278d5197b62d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "348142850bdbdf3d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Languages/CSS/Documentation/Gradient.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "514442cde029109d",
+  "lastOpenFiles": [
+    "Languages/CSS/Documentation/Gradient.md",
+    "Languages/CSS/Documentation/Frameworks CSS.md",
+    "Languages/CSS/Documentation/Découpage (clip-path).md",
+    "Languages/CSS/Documentation/Composition et fusion.md",
+    "Languages/CSS/Frameworks/Tailwind.md",
+    "Languages/CSS/Documentation/Animations.md",
+    "Tools/Jetbrains.md",
+    "Obsidian Markdown.md",
+    "Languages/PHP/Déploiement.md",
+    "Languages/PHP/Composer.md"
+  ]
+}
