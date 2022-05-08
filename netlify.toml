@@ -28,7 +28,7 @@ SITE_TITLE = "Guillaume Hanotel's Second 🧠"
 SITE_TITLE_TAB = ""
 
 # (REQUIRED) Netlify site URL
-SITE_URL = ""
+SITE_URL = "https://guillaumehanotel.netlify.app"
 
 # (Optional) Site Timezone
 TIMEZONE = "Europe/France"
