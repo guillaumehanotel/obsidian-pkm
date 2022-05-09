@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Languages/PHP/Composer.md",
+            "file": "Git/Problem & Solutions.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Languages/PHP/Composer.md",
+                "file": "Git/Problem & Solutions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "514442cde029109d",
   "lastOpenFiles": [
+    "Git/Problem & Solutions.md",
     "Languages/PHP/Composer.md",
     "Languages/PHP/Laravel/Routing.md",
     "Git/toto.md",
@@ -97,7 +98,6 @@
     "Tools/Jetbrains.md",
     "README.md",
     "Languages/CSS/Documentation/Gradient.md",
-    "Languages/CSS/Documentation/Frameworks CSS.md",
-    "Languages/CSS/Documentation/Découpage (clip-path).md"
+    "Languages/CSS/Documentation/Frameworks CSS.md"
   ]
 }
