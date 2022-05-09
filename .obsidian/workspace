@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Git/Problem & Solutions.md",
+            "file": "Languages/PHP/Composer.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Problem & Solutions.md",
+                "file": "Languages/PHP/Composer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,8 +89,8 @@
   },
   "active": "514442cde029109d",
   "lastOpenFiles": [
-    "Git/Problem & Solutions.md",
     "Languages/PHP/Composer.md",
+    "Git/Problem & Solutions.md",
     "Languages/PHP/Laravel/Routing.md",
     "Git/toto.md",
     "Obsidian Markdown.md",
