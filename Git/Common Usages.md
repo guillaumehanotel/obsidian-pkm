@@ -19,3 +19,10 @@ git push -f
 git reset --hard origin/<branch_name>
 ```
 
+## [Supprimer un fichier/dossier du tracking git](https://stackoverflow.com/questions/1274057/how-can-i-make-git-forget-about-a-file-that-was-tracked-but-is-now-in-gitign)
+```shell
+# Fichier
+git rm --cached <file>
+# Dossier
+git rm -r --cached <folder>
+```
