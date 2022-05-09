@@ -44,3 +44,29 @@
 `Ctrl + Shift + Maj + J` : Sélectionner toutes les occurences d'une même expression dans un fichier
 
 `Ctrl + Alt + S` : Ouvrir le menu Settings
+
+`Alt + F12` : Ouvrir / Fermer le Terminal
+
+# Plugins
+- .env files support
+- Alpine.js Support
+- Code::Stats
+- csv
+- Github Copilot
+- Gitmoji Plus
+- GitToolBox
+- Ideolog
+- Key Promoter X
+- Laravel
+- Laravel Make
+- Makefile Language
+- Nyan Progress Bar
+- Pest
+- PHP Annotations
+- Prettier
+- Symfony Support
+- Tailwind CSS Smart Completions
+- Tailwinf Formatter
+- The Doki Theme
+- Docker
+- Grazie

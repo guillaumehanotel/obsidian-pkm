@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Languages/PHP/Composer.md",
+            "file": "Tools/Jetbrains.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Languages/PHP/Composer.md",
+                "file": "Tools/Jetbrains.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "514442cde029109d",
   "lastOpenFiles": [
+    "Tools/Jetbrains.md",
+    "Languages/PHP/PSR.md",
+    "UX & UI/Icons.md",
+    "Obsidian Markdown.md",
     "Languages/PHP/Composer.md",
     "Git/Problem & Solutions.md",
     "Languages/PHP/Laravel/Routing.md",
     "Git/toto.md",
-    "Obsidian Markdown.md",
     "Home.md",
-    "Tools/Jetbrains.md",
-    "README.md",
-    "Languages/CSS/Documentation/Gradient.md",
-    "Languages/CSS/Documentation/Frameworks CSS.md"
+    "README.md"
   ]
 }
