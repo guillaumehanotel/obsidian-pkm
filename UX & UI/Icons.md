@@ -1,7 +1,6 @@
 # Icons libraries
 
-https://github.com/notlmn/awesome-icons
-
+[Unsplash](https://github.com/notlmn/awesome-icons)
 https://icons8.com/
 https://www.flaticon.com/
 https://www.figma.com/@piqodesign
