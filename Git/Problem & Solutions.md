@@ -9,7 +9,7 @@ fatal: Could not read from remote repository.
 Please make sure you have the correct access rights
 and the repository exists.
 ```
-#### Solution : La clé SSH n'est pas reconnu
+#### Solution : [La clé SSH n'est pas reconnu](https://stackoverflow.com/questions/4565700/how-to-specify-the-private-ssh-key-to-use-when-executing-shell-command-on-git)
 ```shell
 baf@baf:~/baf$ cat ~/.ssh/config 
 Host gitlab.com
