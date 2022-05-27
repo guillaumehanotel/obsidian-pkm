@@ -10,3 +10,7 @@
 
 #### **Squash:** Crush or squeeze (something) with force so that it becomes flat:
 ![[squash.gif]]
+
+### [What's the difference between git rebase and merge --no-ff](https://stackoverflow.com/questions/21817248/whats-the-difference-between-git-rebase-and-merge-no-ff)
+
+![[diff_merge_rebase.png]]
