@@ -7,3 +7,4 @@ https://www.figma.com/@piqodesign
 https://remixicon.com/
 https://orioniconlibrary.com/
 https://iconsax.io/
+https://tablericons.com/

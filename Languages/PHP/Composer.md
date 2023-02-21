@@ -27,3 +27,7 @@ Ce problème est généralement causé par une erreur classmap d'une classe de b
 - **--no-interaction (-n)** : Do not ask any interactive question.
 - **--no-dev** : Skip installing packages listed in `require-dev`. The autoloader generation skips the `autoload-dev` rules.
 - **--optimize-autoloader (-o):** Convert PSR-0/4 autoloading to classmap to get a faster autoloader. This is recommended especially for production, but can take a bit of time to run so it is currently not done by default.
+
+
+
+https://devhints.io/composer
